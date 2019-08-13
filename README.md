@@ -1,6 +1,9 @@
 # Space-Invaders
 Space Invaders game written in python
 
-Basic functionality
+* Application ultizes turtle python library
 
-Open game in python launcher
+* Application allows users to play a simple version of space invaders
+
+
+[To run open game in python launcher]
